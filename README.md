@@ -30,12 +30,15 @@ This project aims to develop a program that automates the cleaning and spell-che
 
 ## Implementation
 
-### Libraries Used
+### Libraries and modules Used
 - `pandas`
 - `datetime`
 - `openpyxl`
 - `re`
 - `json`
+- `groq`
+- `dotenv`
+- `os`
 
 ### Steps
 1. **Data Cleaning**:
