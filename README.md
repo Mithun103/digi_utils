@@ -1,5 +1,5 @@
 # Project: Excel Data Cleaning and Spell-Checking Automation
-
+## (note:Script files are in master branch)
 ## Overview
 This project aims to develop a program that automates the cleaning and spell-checking of data in Excel files. The data, initially extracted using OCR functions, often contains inconsistencies and spelling errors. This program ensures data integrity and correctness through automated processes.
 
